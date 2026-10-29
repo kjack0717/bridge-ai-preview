@@ -1,4 +1,4 @@
-:HL["/bridge-ai-preview/_next/static/chunks/17pwsyyqexhpe.css","style"]
+:HL["/bridge-ai-preview/_next/static/chunks/3llyj-74adiyv.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"_PSZrvBWbmMoCQaeXsrzo","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"jA9qebMBpNDP31RunWW3i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
